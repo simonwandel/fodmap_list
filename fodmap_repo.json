@@ -3037,5 +3037,13 @@
    "fodmap": "low",
    "category": "Cooking ingredients, Herbs and Spices",
 "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+ },
+ {
+   "id": "437",
+   "name": "Cornflakes",
+   "fodmap": "low",
+   "category": "Breads, Cereals, Grains and Pasta",
+   "qty": "1/2 cup",
+"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
  }
 ]
